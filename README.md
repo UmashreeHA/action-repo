@@ -6,7 +6,7 @@ This project receives GitHub Webhook events (Push and Pull Request) and displays
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Python 3**
 - **Flask** – for the backend webhook server and UI rendering
@@ -17,7 +17,7 @@ This project receives GitHub Webhook events (Push and Pull Request) and displays
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 webhook-repo/
 │
@@ -29,7 +29,7 @@ webhook-repo/
 
 ---
 
-## 🚀 How to Run the App Locally
+##  How to Run the App Locally
 
 ### 1. Clone the Repo
 
